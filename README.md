@@ -11,7 +11,7 @@ To complete all of the enclosed proejcts you will need at least:
 * Breadboard
 * Jumper cables
 * LEDs (at least 2)
-* resistors (at least 330 Ohm)
+* resistors (at least 330 &#8486;)
 
 Projects
 ========
