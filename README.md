@@ -26,9 +26,9 @@ Projects
 
 * make-it-shine - a good project to start with. Use left and right arrow keys on your keyboard to blink the LEDs and make simple sounds.
 * make-it-safer - A simple, non-interactive blink project which uses a transistor to power the LED, rather than the GPIO pin. The Raspberry Pi's GPIO pins can only provide a small amount of current, but the 5V pin can provide more (although still limited). The transistor in this project allows the GPIO pin to turn the LED on and off, but for the LED's power to be drawn from the 5V pin
-* make-it-sequence - Another non-interactive project using LEDs which lights up a series of LEDs in sequence. This project is a lead in to the 4017_arrows project, and is a good way to make sure everything is hooked up correctly
-* make-it-sequence-2 - This project builds on the 4017 project by adding two arrows to the scene, when clicked, the arrows change the LED that is illuminated. Note that there is one additional wire used in this project beyond what was set up in the 4017 project
-* make-it-count - This project is similar to the 4017 project with arrows, but replaces the LEDs with a 7 segment display that counts up and down.
+* make-it-sequence - Another non-interactive project using LEDs which lights up a series of LEDs in sequence. This project is a lead in to the make-it-sequence-2 project, and is a good way to make sure everything is hooked up correctly
+* make-it-sequence-2 - This project builds on the make-it-sequence project by adding two arrows to the scene, when clicked, the arrows change the LED that is illuminated. Note that there is one additional wire used in this project beyond what was set up in the make-it-sequence project
+* make-it-count - This project is similar to the make-it-sequence-2 project with arrows, but replaces the LEDs with a 7 segment display that counts up and down.
 * make-it-spin - This is a non-interactive project that demonstrates how to wire up and move a stepper motor. Note that the diagram shows how to wire up the project using a separate ULN2003A and stepper motor, if you get the 28BYJ-48 motor, wire things up so that the wire colors match.
 
 
