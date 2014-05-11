@@ -6,7 +6,7 @@ Projects for Scratch + Raspberry Pi
 Getting Started
 ===============
 
-To complete all of the enclosed proejcts you will need at least:
+To complete all of the enclosed projects you will need at least:
 * Raspberry Pi with monitor, keyboard and mouse
 * Breadboard
 * Jumper cables
@@ -20,6 +20,11 @@ To complete all of the enclosed proejcts you will need at least:
 * An NPN transistor (like the 2n4401)
 
 NOTE: You can get an inexpensive stepper motor and the ULN2003A together, look for the "28BYJ-48" stepper motor and driver board
+
+Guides
+========
+
+There is a [student guide](https://docs.google.com/document/d/1HvhqimYz74FFc9-a1SsnBxWn7TzPp8uPVilyk3O5iWs/edit?usp=sharing) and a [teacher guide](https://docs.google.com/document/d/1HLV7XSzdQq8FjuiK82BpgcF5K6oz1XSTyaMG_c4S8dU/edit?usp=sharing) available for these activities
 
 Projects
 ========
