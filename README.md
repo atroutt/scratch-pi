@@ -3,7 +3,7 @@ scratch-pi
 
 Projects for Scratch + Raspberry Pi
 
-Getting Started
+Hardware Needed
 ===============
 
 To complete all of the enclosed projects you will need at least:
@@ -21,13 +21,14 @@ To complete all of the enclosed projects you will need at least:
 
 NOTE: You can get an inexpensive stepper motor and the ULN2003A together, look for the "28BYJ-48" stepper motor and driver board
 
-Guides
-========
-
-There is a [student guide](https://docs.google.com/document/d/1HvhqimYz74FFc9-a1SsnBxWn7TzPp8uPVilyk3O5iWs/edit?usp=sharing) and a [teacher guide](https://docs.google.com/document/d/1HLV7XSzdQq8FjuiK82BpgcF5K6oz1XSTyaMG_c4S8dU/edit?usp=sharing) available for these activities
-
 Projects
 ========
+
+In each project folder you will find a starter Scratch project and a solution Scratch project. The docs folder contains the circuit diagram for the relevant circuit. The circuit is also visible in the background of the Scratch stage for each project, but that is often not large enough to be useful.
+
+There is a [student guide](https://docs.google.com/document/d/1HvhqimYz74FFc9-a1SsnBxWn7TzPp8uPVilyk3O5iWs/edit?usp=sharing) and a [teacher guide](https://docs.google.com/document/d/1HLV7XSzdQq8FjuiK82BpgcF5K6oz1XSTyaMG_c4S8dU/edit?usp=sharing) available for these projects. The student guides contain information about the electronic components in each circuit, tips for building it successfully and some pseudo-code to get you started with your Scratch code.
+
+TIP: If you get stuck you can always peek at the solution Scratch project. If that doesn't work then there is probably a bug in your circuit.
 
 * make-it-shine - a good project to start with. Use left and right arrow keys on your keyboard to blink the LEDs and make simple sounds.
 * make-it-safer - A simple, non-interactive blink project which uses a transistor to power the LED, rather than the GPIO pin. The Raspberry Pi's GPIO pins can only provide a small amount of current, but the 5V pin can provide more (although still limited). The transistor in this project allows the GPIO pin to turn the LED on and off, but for the LED's power to be drawn from the 5V pin
