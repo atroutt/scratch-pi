@@ -40,6 +40,8 @@ Projects
 Credits
 =======
 
+This project was created by [Audrey Troutt](https://github.com/atroutt) and [Andrew Ganim](https://github.com/aganim) for a [TechGirlz](http://www.techgirlz.org/) TechShop in September 2013.
+
 None of it could be possible without Cymplecy's Scratch GPIO extension
 http://cymplecy.wordpress.com/2013/04/22/scratch-gpio-version-2-introduction-for-beginners/
 
